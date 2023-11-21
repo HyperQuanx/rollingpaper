@@ -1,0 +1,28 @@
+{
+  "signup": [
+    {
+      "id": "1",
+      "userId": "han",
+      "password": "test1234",
+      "username": "한덕용"
+    },
+    {
+      "id": "2",
+      "userId": "ha",
+      "password": "test1234",
+      "username": "하다연"
+    },
+    {
+      "id": "3",
+      "userId": "jan",
+      "password": "test1234",
+      "username": "전아영"
+    },
+    {
+      "id": "4",
+      "userId": "ryu",
+      "password": "test1234",
+      "username": "류시영"
+    }
+  ]
+}
