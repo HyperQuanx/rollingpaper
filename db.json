@@ -1,9 +1,10 @@
 {
+
   "users": [
     {
       "id": 1,
-      "userId": "young",
-      "password": "비밀번호",
+      "userId": "jan",
+      "password": "test1234",
       "userName": "전아영",
       "bio": "아영 자기소개 글",
       "comments": [
@@ -20,6 +21,8 @@
     },
     {
       "id": 2,
+      "userId": "han",
+      "password": "test1234",
       "userName": "한덕용",
       "bio": "덕용 나의 자기소개 글",
       "comments": [
@@ -39,6 +42,8 @@
     },
     {
       "id": 3,
+      "userId": "ryu",
+      "password": "test1234",
       "userName": "류시영",
       "bio": "시영 내가 쓴 자기소개 글",
       "comments": [
@@ -58,6 +63,8 @@
     },
     {
       "id": 4,
+      "userId": "ha",
+      "password": "test1234",
       "userName": "하다연",
       "bio": "다연 나를 소개하는 자기소개 글",
       "comments": [
