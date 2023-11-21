@@ -1,28 +1,219 @@
 {
-  "signup": [
+
+  "users": [
     {
-      "id": "1",
-      "userId": "han",
-      "password": "test1234",
-      "username": "한덕용"
-    },
-    {
-      "id": "2",
-      "userId": "ha",
-      "password": "test1234",
-      "username": "하다연"
-    },
-    {
-      "id": "3",
+      "id": 1,
       "userId": "jan",
       "password": "test1234",
-      "username": "전아영"
+      "userName": "전아영",
+      "bio": "아영 자기소개 글",
+      "comments": [
+        {
+          "comment": "text"
+        },
+        {
+          "comment": "댓글"
+        },
+        {
+          "comment": "댓글1"
+        }
+      ]
     },
     {
-      "id": "4",
+      "id": 2,
+      "userId": "han",
+      "password": "test1234",
+      "userName": "한덕용",
+      "bio": "덕용 나의 자기소개 글",
+      "comments": [
+        {
+          "comment": "22text"
+        },
+        {
+          "comment": "22댓글"
+        },
+        {
+          "comment": "22댓글1"
+        },
+        {
+          "comment": "22안녕안녕"
+        }
+      ]
+    },
+    {
+      "id": 3,
       "userId": "ryu",
       "password": "test1234",
-      "username": "류시영"
+      "userName": "류시영",
+      "bio": "시영 내가 쓴 자기소개 글",
+      "comments": [
+        {
+          "comment": "33text"
+        },
+        {
+          "comment": "33댓글"
+        },
+        {
+          "comment": "33댓글1"
+        },
+        {
+          "comment": "33안녕안녕"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "userId": "ha",
+      "password": "test1234",
+      "userName": "하다연",
+      "bio": "다연 나를 소개하는 자기소개 글",
+      "comments": [
+        {
+          "comment": "44text"
+        },
+        {
+          "comment": "4댓글"
+        },
+        {
+          "comment": "4444댓글1"
+        },
+        {
+          "comment": "4안녕안녕"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "userName": "롤링페이퍼",
+      "bio": "많이 많이 써주세요",
+      "comments": [
+        {
+          "comment": "5text"
+        },
+        {
+          "comment": "55555댓글"
+        },
+        {
+          "comment": "55댓글1"
+        },
+        {
+          "comment": "555안녕안녕"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "userName": "윤문열",
+      "bio": "관리해주시는 매니저님 대머리",
+      "comments": [
+        {
+          "comment": "6text"
+        },
+        {
+          "comment": "666댓글"
+        },
+        {
+          "comment": "66댓글1"
+        },
+        {
+          "comment": "6666안녕안녕"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "userName": "정주혜",
+      "bio": "리액트 천사 기술 매니저님",
+      "comments": [
+        {
+          "comment": "7text"
+        },
+        {
+          "comment": "77댓글"
+        },
+        {
+          "comment": "7777댓글1"
+        },
+        {
+          "comment": "77안녕안녕"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "userName": "황태영",
+      "bio": "스파르타 리액트 열정 매니저님",
+      "comments": [
+        {
+          "comment": "8text"
+        },
+        {
+          "comment": "88댓글"
+        },
+        {
+          "comment": "8댓글1"
+        },
+        {
+          "comment": "888안녕안녕"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "userName": "김가은",
+      "bio": "스프링 지주",
+      "comments": [
+        {
+          "comment": "9text"
+        },
+        {
+          "comment": "9댓글"
+        },
+        {
+          "comment": "999댓글1"
+        },
+        {
+          "comment": "99안녕안녕"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "userName": "항해 99",
+      "bio": "큰 배 타는 중",
+      "comments": [
+        {
+          "comment": "10text"
+        },
+        {
+          "comment": "1댓글"
+        },
+        {
+          "comment": "0댓글1"
+        },
+        {
+          "comment": "10안녕안녕"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "userName": "17기",
+      "bio": "수는 적지만 그 파워는~~",
+      "comments": [
+        {
+          "comment": "11text"
+        },
+        {
+          "comment": "1111댓글"
+        },
+        {
+          "comment": "111111댓글1"
+        },
+        {
+          "comment": "11안녕안녕"
+        }
+      ]
     }
   ]
 }

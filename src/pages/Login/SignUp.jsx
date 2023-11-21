@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { ModalWrapper, ModalContent, CloseButton, InputStyle, LoginButton, Center, Information } from './style';
+import { ModalWrapper, ModalContent, CloseButton, InputStyle, LoginButton, Center, Information } from './styles';
 import axios from 'axios';
 
 const SignUp = ({ onClose }) => {
@@ -120,3 +120,4 @@ const SignUp = ({ onClose }) => {
 };
 
 export default SignUp;
+

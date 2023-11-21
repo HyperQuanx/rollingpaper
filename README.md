@@ -6,3 +6,4 @@ styled-components
 axios
 redux-thunk
 react-query
+json-server

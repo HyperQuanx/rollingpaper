@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { ModalWrapper, ModalContent, CloseButton, InputStyle, LoginButton, LoginP, Center } from './style';
+import { ModalWrapper, ModalContent, CloseButton, InputStyle, LoginButton, LoginP, Center } from './styles';
 import SignUp from './SignUp';
 import axios from 'axios';
 
